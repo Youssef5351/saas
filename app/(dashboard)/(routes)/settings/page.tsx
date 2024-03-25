@@ -12,7 +12,7 @@ const SettingsPage = async () => {
       <Heading
         title="Settings"
         description="Manage account settings."
-        icon={Settings}
+        Xicon={Settings}
         iconColor="text-gray-700"
         bgColor="bg-gray-700/10"
       />
